@@ -1,0 +1,26 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../Lomi.Onboarding.Account.Job/Lomi.Onboarding.Account.Job.csproj"
+    },
+    {
+      "filePath": "../Lomi.Onboarding.Company.Job/Lomi.Onboarding.Company.Job.csproj"
+    },
+    {
+      "filePath": "../Lomi.LeadGenerator.Job/Lomi.LeadGenerator.Job.csproj"
+    },
+    {
+      "filePath": "../Lomi.LeadInteraction.Job/Lomi.LeadInteraction.Job.csproj"
+    },
+    {
+      "filePath": "../Graph.WeightCalculator.Job/Graph.WeightCalculator.Job.csproj"
+    },
+    {
+      "filePath": "../Graph.Master.Job/Graph.Master.Job.csproj"
+    },
+    {
+      "filePath": "../Graph.GlobalWeightCalculator.Job/Graph.GlobalWeightCalculator.Job.csproj"
+    }
+  ]
+}

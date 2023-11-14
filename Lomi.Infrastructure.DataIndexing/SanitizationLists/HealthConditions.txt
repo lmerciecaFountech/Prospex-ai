@@ -1,0 +1,268 @@
+asthma
+HIV
+arthritis
+Alzheimer's
+Dementia
+Arthritis
+Ankylosing Spondylitis
+Fibromyalgia
+Gout
+Lupus
+Osteoarthritis
+Psoriatic Arthritis
+Reactive Arthritis
+Rheumatoid Arthritis
+Asthma
+Brain Tumor
+Bladder Cancer
+Breast Cancer
+Cervical Cancer
+Colon Polyps
+Liver Cancer
+Lung Cancer
+Pancreatic Cancer
+Prostate Cancer
+Skin Cancer
+Testicular Cancer
+Cholesterol
+Common Cold
+Encephalitis
+Meningitis
+Eustachian Tube Problems
+Flu
+Influenza
+Pneumonia
+SARS
+Sinusitis
+Sore Throat
+Strep Throat
+Swine Flu
+H1N1 Virus
+Tonsillitis
+Adenoiditis
+Bipolar Disorder
+Depression
+Dysthymia
+Panic Disorder
+Post Traumatic Stress Disorder
+Seasonal Affective Disorder
+Stress
+Diabetes Mellitus
+Diabetes Insipidus
+Appendicitis
+Ulcerative Colitis
+Constipation
+Crohn's Disease
+Diarrhea
+Dyspepsia
+Indigestion
+Inflammatory Bowel Disease
+IBD
+Intestinal Gas
+GERD
+Heartburn
+Acid Reflux
+Hemorrhoids
+Irritable Bowel Syndrome
+IBS
+Lactose Intolerance
+Motion Sickness
+Ulcerative Colitis
+Cataracts
+Eye Allergy
+Glaucoma
+LASIK Eye Surgery
+Macular Degeneration
+Pink Eye
+Conjunctivitis
+Retinal Detachment
+Sjogren's Syndrome
+Angina
+Atherosclerosis Prevention
+Congenital Heart Disease
+Coronary Angiogram
+Coronary Angioplasty
+Coronary Artery Bypass
+Heart Attack
+Heart Murmurs
+Heart Palpitations
+High Cholesterol
+Stroke
+Cirrhosis of the Liver
+Essential Mixed Cryoglobulinemia
+Hepatitis B
+Hepatitis C
+Hepatitis A 
+Jaundice in NewBorns
+Lichen Planus
+High Blood Pressure
+Hypertension
+Pulmonary Hypertension
+Human Immunodeficiency Virus
+HIV
+Acquired Immunodeficiency Syndrome
+AIDS
+Botulism
+Dengue Fever
+Mad Cow Disease
+Malaria
+Meningitis
+MRSA
+Rabies
+Staph Infection
+Thrush
+West Nile Virus
+Cirrhosis of the Liver
+Non-alcoholic Fatty Liver
+Hemochromatosis
+Iron Overload
+Hepatitis B
+Hepatitis C
+Jaundice
+Liver Blood Tests
+Primary Biliary Cirrhosis
+PBC
+Primary Sclerosing Cholangitis
+PSC
+Asthma
+Chronic Obstructive Pulmonary Disease
+COPD
+Emphysema
+Lung Cancer
+Pneumonia
+Severe Acute Respiratory Syndrome
+SARS
+Menopause
+Angina
+Benign Prostatic Hyperplasia
+BPH
+Erectile Dysfunction
+Impotence
+Hair Loss
+Baldness
+Prostate Cancer
+Prostatitis
+Testicular Cancer
+Anxiety
+Body Dysmorphic Disorder
+Panic Attacks
+Postpartum Depression
+Separation Anxiety
+Stress
+Cluster Headaches
+Headache
+Migraine Headaches
+Tension Headache
+Menopause
+Osteoporosis
+Hyperactivity Disorder
+ADHD
+Bedwetting
+Chickenpox
+Colic
+Diaper Rash
+Lactose Intolerance
+Nosebleeds
+Pink Eye
+Measles
+Mumps
+Tonsillectomy
+Rheumatoid Arthritis
+Alzheimer's Disease
+Anemia
+Angina
+Cataracts
+Dementia
+Glaucoma
+Macular Degeneration
+Hearing Loss
+Heart Attack Prevention
+Sleep Disturbance
+Stroke
+Acne
+Actinic Keratosis
+Atopic Dermatitis
+Eczema
+Boils
+Bumps
+Bruises
+Burns
+Dandruff
+Hives
+Itch
+Keloid
+Melanoma
+Nail Fungus
+Poison Ivy
+Psoriasis
+Rash
+Dermatitis
+Rosacea
+Scleroderma
+Shingles
+Skin Cancer
+Warts
+Wrinkles
+Insomnia
+Jet Lag
+Narcolepsy
+Sleep Apnea
+Snoring
+Somnoplasty
+Hashimoto's Thyroiditis
+Hyperthyroidism
+Hypothyroidism
+Thyroid Cancer
+Bladder Infection
+Bladder Spasms
+Blood In Urine
+Hematuria
+Cystinuria
+Interstitial Cystitis
+Kegel Exercises for Men
+Kegel Exercises for Women
+Kidney Stones
+Nerve Disease
+Bladder Control
+Overactive Bladder
+Prostatitis
+Urethral Stricture
+Urinalysis
+Urinary Incontinence in Men
+Urinary Incontinence in Women
+Anorexia Nervosa
+Bulimia Nervosa
+Cellulite
+Childhood Obesity
+Breast Cancer
+Breastfeeding
+Menopause
+Miscarriage
+Osteoporosis
+Ovarian Cancer
+Ovarian Cysts
+PMS
+Premenstrual Syndrome
+Sexually Transmitted Diseases
+STDs
+Uterine Cancer
+Varicose Veins
+Yeast Infections
+Alzheimer's
+Arthritis
+Asthma
+Cancer
+Cholesterol
+Cold
+Flu
+Depression
+Diabetes
+Hepatitis
+High Blood Pressure
+HIV
+Infectious Disease
+Menopause
+Migraine
+Osteoporosis
+Pediatrics
+Rheumatoid Arthritis

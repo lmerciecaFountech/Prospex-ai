@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8AB1EF54-88EE-45B3-AA90-E5F20F6DADA1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lomi.Service</RootNamespace>
+    <AssemblyName>Lomi.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Factories\CompanyFactory.cs" />
+    <Compile Include="Factories\PersonFactory.cs" />
+    <Compile Include="Factories\ProductFactory.cs" />
+    <Compile Include="Interfaces\IGooglePlaceService.cs" />
+    <Compile Include="Interfaces\IGraphAttributeService.cs" />
+    <Compile Include="Interfaces\IGraphCompanyService.cs" />
+    <Compile Include="Interfaces\IGraphLocationService.cs" />
+    <Compile Include="Interfaces\IGraphPersonService.cs" />
+    <Compile Include="Interfaces\IGraphProductService.cs" />
+    <Compile Include="Interfaces\ILeadDeliveryService.cs" />
+    <Compile Include="Interfaces\ILeadGeneratorService.cs" />
+    <Compile Include="Interfaces\IOnboardingService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\CrunchbaseService.cs" />
+    <Compile Include="Services\DynamicsService.cs" />
+    <Compile Include="Services\FacebookService.cs" />
+    <Compile Include="Services\GooglePlaceService.cs" />
+    <Compile Include="Services\GoogleService.cs" />
+    <Compile Include="Services\GraphAttributeService.cs" />
+    <Compile Include="Services\GraphCompanyService.cs" />
+    <Compile Include="Services\GraphLocationService.cs" />
+    <Compile Include="Services\GraphPersonService.cs" />
+    <Compile Include="Services\GraphProductService.cs" />
+    <Compile Include="Services\LeadDeliveryService.cs" />
+    <Compile Include="Services\LeadGeneratorService.cs" />
+    <Compile Include="Services\LinkedInService.cs" />
+    <Compile Include="Services\LomiAlgorithmsService.cs" />
+    <Compile Include="Services\OnboardingService.cs" />
+    <Compile Include="Services\SalesForceService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GooglePlaces.API\GooglePlaces.API.csproj">
+      <Project>{3391F39A-ADE2-4234-BCF3-25E5F3326992}</Project>
+      <Name>GooglePlaces.API</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lomi.Infrastructure.DataIndexing\Lomi.Infrastructure.DataIndexing.csproj">
+      <Project>{F26747A5-90D4-4F8F-A906-4355EC4E68CF}</Project>
+      <Name>Lomi.Infrastructure.DataIndexing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lomi.Infrastructure.GraphDB\Lomi.Infrastructure.GraphDB.csproj">
+      <Project>{df791fb5-7451-406a-aad2-01247fcd4fcf}</Project>
+      <Name>Lomi.Infrastructure.GraphDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lomi.Infrastructure.Persistence\Lomi.Infrastructure.Persistence.csproj">
+      <Project>{4f0b19e8-7b66-4e2d-9cdc-20929d9ffd05}</Project>
+      <Name>Lomi.Infrastructure.Persistence</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lomi.Infrastructure\Lomi.Infrastructure.csproj">
+      <Project>{81d32964-d86f-4a60-af2e-9edcb37dc79e}</Project>
+      <Name>Lomi.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

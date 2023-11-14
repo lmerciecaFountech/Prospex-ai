@@ -1,0 +1,4 @@
+\.com
+\.ai
+\.net
+\.org

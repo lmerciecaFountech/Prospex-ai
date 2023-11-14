@@ -1,0 +1,4 @@
+http(s)?:\/\/
+www\.
+http(s)?:\/\/www\.
+www
